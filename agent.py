@@ -537,7 +537,7 @@ Here are the segments to draw upon for crafting your conclusion: {formatted_str_
             
             return {"content": report_text}
         
-        def write_introduction(st ate: ResearchGraphState):
+        def write_introduction(state: ResearchGraphState):
             sections = state["sections"]
             topic = state["topic"]
             
