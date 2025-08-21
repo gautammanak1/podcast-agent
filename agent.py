@@ -703,7 +703,7 @@ def main():
     agent_info = tool.invoke(
         {
             "agent_obj": podcast_agent_func,
-            "name": "PodScribe Agent",
+            "name": "Podscribe Agent LangChain",
             "port": 8080,
             "description": "An AI agent that generates podcast scripts on any topic with research and structured content",
             "api_token": API_TOKEN,
