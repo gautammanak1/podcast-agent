@@ -1,0 +1,13 @@
+python-dotenv
+uagents-adapter
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+google-generativeai
+pydantic
+typing-extensions
+tavily-python
+uagents
+a2a-sdk[sqlite]
+a2a-sdk
